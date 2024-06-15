@@ -1,3 +1,12 @@
+# moto-hub
+- An online social media forum built for motorcycle enthusiasts
+
+## Setup:
+
+## Technologies:
+
+## Preview:
+
 # README
 
 This README would normally document whatever steps are necessary to get the
